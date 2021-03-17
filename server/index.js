@@ -5,7 +5,6 @@ const pool = require("./db");
 
 app.use (cors());
 app.use (express.json()); //req.body
-//routes
 
 //create a todo
 
